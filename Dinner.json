@@ -1,0 +1,42 @@
+[{
+        "title": "Salmon with Grapefruit and Lentil Salad",
+        "subtitle": "This hearty dinner of Salmon with Grapefruit and Lentil Salad",
+        "description": "Grapefruit and Avocado Salad With Seared Salmon not only provides great taste and appealing presentation, it's loaded with powerful nutrients. When you serve this power salad, you'll get heart-healthy omega-3 fatty acids--thanks to the walnuts and salmon--plus monounsaturated fats from the avocado that also helps your heart.",
+        "photo": "https://i.ibb.co/6gHh49M/dinner6.png",
+        "price": "9.99"
+    },
+    {
+        "title": "Lemony Salmon Piccata",
+        "subtitle": "a lightened up, quick and easy seared salmon piccata with an authentic",
+        "description": "Originally from Italy, Piccata is traditionally made with Veal. This may not be ‘the real deal’ or ‘the most authentic’ Piccata recipe due to being cooked with salmon, however, the unmistakeable Piccata flavours in this Salmon version are all right there in the skillet! After all, the flavour is all that matters when sitting down to enjoy a plate full of food",
+        "photo": "https://i.ibb.co/qjtvFMy/dinner2.png",
+        "price": "10.99"
+    },
+    {
+        "title": "Pork Tenderloin With Quinoa Pilaf",
+        "subtitle": "This tangy-meets-sweet combo and mustard is also great for basting chicken or pork chops.",
+        "description": "While quinoa cooks, heat a skillet on medium. Add remaining tablespoon oil, season pork with ½ teaspoon each salt and pepper, and cook until browned on all sides and an instant-read thermometer registers 145°F, 12 to 14 minutes.",
+        "photo": "https://i.ibb.co/9qqjNJN/dinner5.png",
+        "price": "12.99"
+    },
+    {},
+    {
+        "title": "French Fries With Cheese",
+        "subtitle": "These cheese fries are crispy french fries topped two types of melted cheese,bacon and fresh herbs",
+        "description": "For a different flavor and texture, try making your own cheese sauce to use instead of the shredded cheese. Place 6 ounces of shredded cheddar cheese in a bowl with 2 teaspoons of cornstarch. Toss to coat the cheese in the cornstarch. Place the cheese mixture with 3/4 cup evaporated milk in a sauce pan over low heat. Cook, stirring occasionally, until cheese has melted and sauce is smooth and thick. Drizzle the",
+        "photo": "https://i.ibb.co/Mp3hmfq/dinner4.png",
+        "price": "8.99"
+    }, {
+        "title": "Garlic Butter Baked Salmon",
+        "subtitle": "tender garlic butter baked salmon with crispy roast potatoes, ",
+        "description": "THE salmon recipe of your dreams! A complete meal on one pan full of flavour. Garlic Butter Baked Salmon is easy to make using minimal ingredients you already have in your kitchen! PLUS the bonus of having only one pan to wash and no mess in your kitchen to clean up when your done.",
+        "photo": "https://i.ibb.co/GVS6nSm/dinner3.png",
+        "price": "6.99"
+    }, {
+        "title": "Baked Chicken",
+        "subtitle": "Made with just brown sugar, paprika, oregano, garlic powder, salt and pepper,",
+        "description": "We usually buy whole chickens and either cut them up ourselves or have the butcher do it for us. It's cheaper that way and we get giblets for gravy. You can do that or just use a package of whatever chicken parts you like—make baked chicken breasts for white meat, and baked chicken thighs and legs for dark.",
+        "photo": "https://i.ibb.co/fDFzVRZ/dinner1.png",
+        "price": "9.99"
+    }
+]
